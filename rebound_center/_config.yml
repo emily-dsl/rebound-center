@@ -1,0 +1,17 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jumpers Rebound Centre
+email: info@trampoline.co.uk
+description: Jumpers Rebound Centre.  Home of the Gillingham Jumpers and Kent's premier gymnastics and tampolining centre.
+url: "http://www.trampoline.co.uk" # the base hostname & protocol for your site
+twitter_username: Gillingham_Jumpers
+facebook_username: Jumpersreboundcentre
+telephone: 01634 855 507
+# Build settings
+markdown: kramdown

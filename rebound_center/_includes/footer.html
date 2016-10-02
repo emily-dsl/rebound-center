@@ -1,0 +1,52 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <!--<li>Telephone: 01634 855 507</li>-->
+          <li>{{ site.telephone }}</li>
+            
+            <!-- wanted to have the mail icon next to the e-mail address, but cannot seem to get this to work correctly.-->
+            {% if site.email_username %}
+          <li>
+            {% include icon-mail.html username=site.email_username %}
+          </li>
+          {% endif %}
+
+        </ul>
+
+        <ul class="social-media-list">
+          {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html username=site.facebook_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+        <div class="footer-col footer col-3">
+          <div class="map">
+            <h3>How to find us</h3>
+      <p>Jumpers Rebound Centre, Mill Road, Gillingham, ME7 1HN</p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.6897459046!2d0.5394949509037672!3d51.39037997951615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8cd9f1cb666b5%3A0x2fe9bf8309ef74c2!2sJumpers+Rebound+Centre!5e0!3m2!1sen!2suk!4v1475422977856" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+          </div>
+        </div>        
+
+    </div>
+
+  </div>
+
+</footer>

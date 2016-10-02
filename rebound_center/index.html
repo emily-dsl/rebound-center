@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Welcome</h1>
+
+<div class="neighborhood-guides">
+        <div class="container">
+            <h2>Our Facilities</h2>
+                <p>The Jumpers Rebound Centre offers a range of gymnastic facilities and world class coaching.  Use the links below to explore our services.</p>
+        <div class="row">
+            <div class="col-md-4">
+                
+                <div class="thumbnail">
+                    <a href="/club_sessions/"><img src="http://i413.photobucket.com/albums/pp212/gymgirls_photos/SvetlanaBoginskayaBBSteveLange.jpg">Club Sessions</a>
+                </div>
+                <div class="thumbnail">
+                    <a href="#"><img src="https://ichef.bbci.co.uk/images/ic/480x270/p01lcj0d.jpg">News</a>
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="thumbnail">
+                    <a href="/open_sessions/"><img src="./isaac_jumping.jpg">Open Sessions</a>
+                    
+                </div>
+                <div class="thumbnail">
+                    
+                    <a href="#"><img src="http://www.trampoline.co.uk/coach%20pages/coach%20pictures/Martin.jpg">Meet our Team</a>
+                </div>
+            </div>
+            <div class="col-md-4">
+
+                <div class="thumbnail"><a href="#"><img src="https://userscontent2.emaze.com/images/038c6bcd-a457-4881-ae85-9c6fdf90120c/ac7715e419f83e97c26ed0d04a459521.jpeg">Events and Results</a>
+                </div>  
+                <div class="thumbnail">
+                  <a href="#"><img src="http://www.trampoline.co.uk/images/healthsuite.jpg">Facilities for Hire</a>   
+                    
+                </div>
+            </div>
+        </div>
+
+        </div>
+        
+
+
+
+  <div class="News">
+  <h2>News and Events</h2>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+
+</div>

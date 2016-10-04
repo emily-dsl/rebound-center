@@ -244,7 +244,8 @@
 
 .neighborhood-guides {
     background-color: $background-color;
-    border-bottom: 1px solid #dbdbdb;
+    border-bottom: 1px solid $grey-color-light;
+    padding: $spacing-unit 0;
 
      h2 {
         color: $brand-color;
@@ -259,8 +260,8 @@
 }
 
 .thumbnail {
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
 
     a {
      font-family: $base-font-family;

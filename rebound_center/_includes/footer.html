@@ -8,20 +8,20 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+
+
+  
           <!--<li>Telephone: 01634 855 507</li>-->
           <li>{{ site.telephone }}</li>
-            
-            <!-- wanted to have the mail icon next to the e-mail address, but cannot seem to get this to work correctly.-->
+        </ul>
+
+        <ul class="social-media-list">
             {% if site.email_username %}
           <li>
             {% include icon-mail.html username=site.email_username %}
           </li>
           {% endif %}
-
-        </ul>
-
-        <ul class="social-media-list">
+          
           {% if site.facebook_username %}
           <li>
             {% include icon-facebook.html username=site.facebook_username %}

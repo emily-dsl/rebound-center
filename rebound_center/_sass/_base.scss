@@ -43,7 +43,7 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 50%;
     vertical-align: middle;
 }
 
@@ -58,6 +58,25 @@ figure > img {
 
 figcaption {
     font-size: $small-font-size;
+}
+
+/**
+ * Table formatting
+ */
+table {
+    border-collapse: collapse;
+    width: $content-width;
+}
+
+th, td {
+    border: 1px solid $brand-color;
+    padding: $spacing-unit;
+    text-align: center;
+}
+
+thead {
+    color: $brand-color;
+
 }
 
 

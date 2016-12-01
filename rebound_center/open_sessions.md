@@ -34,7 +34,7 @@ There is more information under the timetable describing what you can expect fro
 
 ## Parent and Tot Trampolining
 
-Come along to our trampolining sessions where your little ones can gain confidence on the trampoline and have a lot of fun.  As they attend more often they will gain valuable gymnastic and control skills, learning new moves and beginning to perform short routines.  We always work with the children at their pace; encouraging them to show us what they can do, and try out new moves.  This is a great way to see if your children will benefit from joining us for a Club Session and certified badge work.
+Come along to our trampolining sessions where your little ones can gain confidence on the trampoline and have a lot of fun.  As they attend more often they will gain valuable gymnastic and control skills, learning new moves and beginning to perform short routines.  We always work with the children at their pace; encouraging them to show us what they can do, and try out new moves.  This is a great way to see if your children will benefit from joining us for a [Club Sessions](/club_sessions/) and certified badge work.
 
 ![isaac jumping](../isaac_jumping.jpg)
 
@@ -52,7 +52,7 @@ Friday  1pm-2pm
 
 ## Parent and Tot Gymnastics
 
-Most of what we do in these sessions involves getting the children familiar to the gymnastics equipment and their own bodiees.  Children learn how to do basic moves like forward and backwards rolls.  They move around activity stations where they might have to touch their toes, jump, balance or hop.  The emphasis is very much on fun and we move at a pace that suits the children in the class.
+Most of what we do in these sessions involves getting the children familiar to the gymnastics equipment and their own bodies.  Children learn how to do basic moves like forward and backwards rolls.  They move around activity stations where they might have to touch their toes, jump, balance or hop.  The emphasis is very much on fun and we move at a pace that suits the children in the class.
 
 £3.40 (+ 70p day membership)
 
@@ -63,7 +63,7 @@ Wednesday 1pm-2pm
 
 ## Over 5's Trampolining
 
-These sessions are mainly for children who already attend Club Sessions or who are on the waiting list, so that they can get extra time on the trampolines.  However, all are welcome from first time jumper to pro's.  Coaches will help the children improve their technique and guide them in beginning new moves or routines.
+These sessions are mainly for children who already attend [Club Sessions](/club_sessions/), or those who are on the waiting list, so that they can get extra time on the trampolines.  However, all are welcome from first time jumper to pro's.  Coaches will help the children improve their technique and guide them in beginning new moves or routines.
 
 £4.20 (+ 70p day membership)
 

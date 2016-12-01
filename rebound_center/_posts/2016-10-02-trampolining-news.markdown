@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Trampolining News"
-date:   2016-10-02 16:06:40 +0100
+title:  "Club Membership"
+date:   2016-11-01 16:06:40 +0100
 categories: events update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Club Membership is now due
 
-Jekyll also offers powerful support for code snippets:
+As from the 1st November there is a new club membership scheme.  This has become necessary to make compulsory due to changes by the government to our Community Amateur Sports Charitable status.  If we lose this status it will mean more costs to our members and much higher fees, which we would like to avoid.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Annual membership is due at a cost of £15 - single or £30 - family, this is compulsory for all club members to purchase.  Session fees are in addition, whether you attend or not.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The saving to you for a single membership is £40.80 + 2 free sessions allocated for the holidays per membership year.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The saving for a family membership with just one adult staying pers session is £86.40 + 2 free sessions allocated for holiday in the membership year.
+
+If you have any further questions please speak to a member of our team.
+
+Liz Laws
+
+
